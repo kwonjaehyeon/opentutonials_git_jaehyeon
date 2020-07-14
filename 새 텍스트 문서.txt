@@ -16,3 +16,4 @@ title 추가
 내용추가
 push 추가
 pull 추가
+stath as
